@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/textUtiles-repo/static/css/main.a617e044.chunk.css",
+    "main.js": "/textUtiles-repo/static/js/main.de334a69.chunk.js",
+    "main.js.map": "/textUtiles-repo/static/js/main.de334a69.chunk.js.map",
+    "runtime-main.js": "/textUtiles-repo/static/js/runtime-main.1badd460.js",
+    "runtime-main.js.map": "/textUtiles-repo/static/js/runtime-main.1badd460.js.map",
+    "static/js/2.685a2b1f.chunk.js": "/textUtiles-repo/static/js/2.685a2b1f.chunk.js",
+    "static/js/2.685a2b1f.chunk.js.map": "/textUtiles-repo/static/js/2.685a2b1f.chunk.js.map",
+    "static/js/3.7d6e20a3.chunk.js": "/textUtiles-repo/static/js/3.7d6e20a3.chunk.js",
+    "static/js/3.7d6e20a3.chunk.js.map": "/textUtiles-repo/static/js/3.7d6e20a3.chunk.js.map",
+    "index.html": "/textUtiles-repo/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/textUtiles-repo/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.685a2b1f.chunk.js.LICENSE.txt": "/textUtiles-repo/static/js/2.685a2b1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1badd460.js",
+    "static/js/2.685a2b1f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.de334a69.chunk.js"
+  ]
+}
